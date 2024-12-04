@@ -1,0 +1,117 @@
+30/11/2024 (membuat plan)
+  plan TA:
+  1. Perancangan dan realisasi
+  2. Duplikasi atau konsistensi
+  3. Analisis penambahan elemen collinear
+
+
+01/12/2024 (merancang pendahuluan proposal)
+  frekuensi yang tidak ada di pasaran
+  spesifikasi lebih khusus
+  untuk project internal perusahaan
+  PERANCANGAN DAN REALISASI ANTENA COLLINEAR UNTUK EVALUASI KONSISTENSI DUPLIKASI DALAM PRODUKSI INTERNAL
+  pendahuluan proposal
+  nirkabel butuh antena, tantangan produksi antena adalah konsistensi, pemilihan antena sangat penting untuk efisiensi, pengenalan collinear sebagai solusi.
+  Perkembangan teknologi komunikasi nirkabel mendorong akan kebutuhan terhadap antena yang efisien serta memiliki spesifikasi sesuai kebutuhan aplikasi penerapannya. Konsistensi spesifikasi antena menjadi tantangan utama yang menentukan kelayakan antena dalam produksi. Pada penelitian ini, pemilihan jenis antena sangat penting untuk memastikan spesifikasi yang sesuai pada setiap aplikasi. Antena Collinear menjadi pilihan utama karena pola radiasi omnidirectional dan gain yang tinggi, dapat menjadi solusi untuk kebutuhan distribusi sinyal ke segala arah dan jangkauan luas.
+  Keunggulan antena collinear terletak dari desainnya, array setiap segment sangat mempengaruhi gain antena. selain itu dimensinya yang memanjang dan berbentuk tabung memungkinkan antena memancar ke segala arah, sehingga sesuai dengan kebutuhan antena komunikasi nirkabel terutama dalam skala kecil hingga menengah. Oleh karena itu, antena collinear dipilih dalam penelitian sebagai antena duplikasi untuk evaluasi konsistensi spesifikasi.
+  Metode duplikasi manual biaya rendah, fleksibel. tantangan utama yaitu konsistensi. evaluasi konsistensi parameter. kinerja.
+  Metode duplikasi manual menawarkan fleksibilitas dan biaya produksi rendah karena tidak menggunakan mesin, sehingga cocok untuk industri yang sekedar membutuhkan beberapa antena saja dalam proyeknya. Tantangan utama dari duplikasi manual yaitu konsistensi terhadap antena aslinya. Maka dari itu, evaluasi konsistensi spesifikasi terutama parameter seperti return loss, VSWR, pola radiasi, dan gain sangaat diperlukan untuk memastikan spesifikasi sama dengan antena aslinya.
+
+
+02/12/2024 (membuat struktur BAB4 dan perencannannya)
+BAB IV HASIL DAN PEMBAHASAN
+  IV.1 Pengujian
+	  IV.1.1 Parameter yang Diuji
+	  IV.1.2 Gambaran Situasi Pengujian
+	  IV.1.3 Gambaran Pelaksanaan Pengujian
+		  IV.1.3.1 Prosedur pengujian
+		  IV.1.3.1 Gambaran Pengujian Parameter
+  IV.2 Hasil Simulasi, Pengujian, dan Pembahasan
+	  IV.2.1 Bandwidth dan Return Loss
+	  IV.2.2 Gain
+	  IV.2.3 Pola Radiasi
+
+  IV.1 Pengujian 
+  (pengantar)
+	  IV.1.1 Parameter yang Diuji 
+	  (bandwidth, return loss, gain, dan pola radiasi) 
+	  IV.1.2 Gambaran Situasi Pengujian 
+	  (dokumentasi ruang pengujian)
+	  IV.1.3 Gambaran Pelaksanaan Pengujian 
+	  (pengantar)
+		  IV.1.3.1 Prosedur pengujian 
+		  (bandwidth, return loss, gain, dan pola radiasi) 
+		  IV.1.3.2 Gambaran Pengujian Parameter 
+		  (bandwidth, return loss, gain, dan pola radiasi)
+  IV.2 Hasil Pengujian dan Pembahasan
+  (pengantar)
+	  IV.2.1 Return loss dan bandwidth
+	  (antena utama dan duplikat)
+	  IV.2.2 Gain
+	  (antena utama dan duplikat)
+	  IV.2.3 Pola radiasi
+	  (antena utama dan duplikat)
+  IV.3 Analisis Konsistensi duplikasi
+
+  IV.1	Pengujian
+  IV.1.1	Parameter yang Diuji
+  IV.1.2	Kondisi Pengujian
+  IV.1.3	Pelaksanaan Pengujian
+  IV.1.3.1	Prosedur Pengujian
+  IV.1.3.2	Pengujian Parameter
+  IV.2	Hasil Pengujian dan Pembahasan
+  IV.2.1	Return Loss dan Bandwidth
+  IV.2.2	Gain
+  IV.2.3	Pola Radiasi
+  IV.3	Analisis Konsistensi duplikasi 
+
+
+03/12/2024 (rangkaian pengujian antena)
+Rangkaian Antena TA
+1.	buat ulang antena utama
+2. 	ukur BW dan RL
+3. 	buat duplikasinya 3 buah antena dengan parameter konstruksi yang sama
+	parameter bisa diukur: lama solder, suhu solder, banyak timah, ukuran tembaga, ukuran 	teflon, ukuran core
+	parameter tidak bisa diukur: kerapihan solder, penggunaan flux
+4.	ukur semua antena (BW, RL, Gain, Polaradiasi)
+5.	perbandingan parameter antena utama dan duplikasi
+	data parameter konstruksi
+	analisis akibat
+	pencapaian: parameter konstruksi yang melalui takaran dapat menjadi solusi duplikasi
+	tidak tercapai: faktor kerapihan solder, penggunaan flux
+6.	penambahan resin
+	parameter bisa diukur: takaran resin, takaran catalis, cetakan
+	parameter tidak bisa diukur: rongga udara, posisi antena
+7.	ukur semua antena(BW, RL, Gain, Polaradiasi)
+8.	perbandingan parameter resin dan tidak
+	data parameter konstruksi
+	analisis akibat
+	pencapaian: penambahan resin sesuai takaran menjadi solusi duplikasi
+	tidak tercapat: faktor rongga udara dan posisi antena
+
+1. buat antena utama (saat konstruksi mencatat parameter seperti: lama solder, suhu solder, banyak timah, ukuran tembaga, dan lainnya.) hal ini untuk keperluan duplikasi
+2. ukur bandwidth dan returnloss
+3. buat duplikasi 3 buah dengan menyesuaikan dengan parameter konstruksi.
+4. ukur semua antena (bandwidth, return loss, gain, pola radiasi)
+5. bandingkan hasil parameter ukur antena utama dan duplikasi, masukan juga data parameter konstruksi untuk di jadikan analisis jika antena duplikasi sesuai, ke akuratan takaran bisa menjadi data yang kuat, namun jika tidak stabil hasilnya maka kerapihan solder dan penggunaan flux bisa menjadi alasan.
+6. penambahan resin guna antena yang kokoh
+7. ukur kembali semua antena (bandwidth...)
+8. bandingkan kembali parameter masing masign antena sebelum resin dan sesudah resin. masukan juga data parameter konstruksi resin seperti takaran resin dan katalis untukdijadikan analisis jika hasil sesuai berarti data parameter resin dapat memperkuat argumen, jika tidak sesuai, faktor rongga udara dan posisi antena pada resin dapat menjadi alasan.
+
+
+04/12/2024
+progress:
+disetujui untuk membawa pulang antena rancangan
+selesai membuat dokumentasi progress
+
+belum saat ini:
+bimbingan bu hepi (konsep, judul, progres, rencana, saran)
+bimbingan bang ali (hasil konstruksi, revisi bab 4)
+konstruksi ulang antena utama 1, duplikat 3 dengan mencatat parameter konstruksi
+
+rencana:
+parameter terukur dan tidak terukur konstruksi
+simulasi resin
+realisasi sampai tahap solder
+dokumentasi
+
