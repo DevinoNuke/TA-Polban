@@ -1,0 +1,48 @@
+[System]
+Name='rules'
+Type='mamdani'
+Version=2.0
+NumInputs=2
+NumOutputs=2
+NumRules=4
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='centroid'
+
+[Input1]
+Name='SensorGSR'
+Range=[0 2500]
+NumMFs=2
+MF1='Rendah':'trapmf',[0 0 1000 2000]
+MF2='Tinggi':'trapmf',[1000 2000 2500 2500]
+
+[Input2]
+Name='SensorGSR'
+Range=[0 2500]
+NumMFs=2
+MF1='rendah':'trapmf',[0 0 1000 2000]
+MF2='tinggi':'trimf',[1500 2500 3500]
+
+[Output1]
+Name='Tegangan'
+Range=[0 24]
+NumMFs=3
+MF1='rendah':'trapmf',[0 0 5 10]
+MF2='sedang':'trapmf',[8 12 14 16]
+MF3='tinggi':'trapmf',[14 18 24 24]
+
+[Output2]
+Name='Waktu'
+Range=[0 60]
+NumMFs=3
+MF1='pendek':'trapmf',[0 0 10 20]
+MF2='sedang':'trapmf',[15 25 35 45]
+MF3='panjang':'trapmf',[40 50 60 60]
+
+[Rules]
+1 1, 1 1 (1) : 1
+1 2, 2 2 (1) : 1
+2 1, 2 2 (1) : 1
+2 2, 3 3 (1) : 1
