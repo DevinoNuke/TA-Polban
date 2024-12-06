@@ -1,0 +1,23 @@
+01/12/2024
+
+frekuensi yang tidak ada di pasaran
+spesifikasi lebih khusus
+untuk project internal perusahaan
+
+PERANCANGAN DAN REALISASI ANTENA COLLINEAR UNTUK EVALUASI KONSISTENSI DUPLIKASI DALAM PRODUKSI INTERNAL
+
+pendahuluan proposal
+nirkabel butuh antena, tantangan produksi antena adalah konsistensi, pemilihan antena sangat penting untuk efisiensi, pengenalan collinear sebagai solusi.
+
+Perkembangan teknologi komunikasi nirkabel mendorong akan kebutuhan terhadap antena yang efisien serta memiliki spesifikasi sesuai kebutuhan aplikasi penerapannya. Konsistensi spesifikasi antena menjadi tantangan utama yang menentukan kelayakan antena dalam produksi. Pada penelitian ini, pemilihan jenis antena sangat penting untuk memastikan spesifikasi yang sesuai pada setiap aplikasi. Antena Collinear menjadi pilihan utama karena pola radiasi omnidirectional dan gain yang tinggi, dapat menjadi solusi untuk kebutuhan distribusi sinyal ke segala arah dan jangkauan luas.
+
+Keunggulan antena collinear terletak dari desainnya, array setiap segment sangat mempengaruhi gain antena. selain itu dimensinya yang memanjang dan berbentuk tabung memungkinkan antena memancar ke segala arah, sehingga sesuai dengan kebutuhan antena komunikasi nirkabel terutama dalam skala kecil hingga menengah. Oleh karena itu, antena collinear dipilih dalam penelitian sebagai antena duplikasi untuk evaluasi konsistensi spesifikasi.
+
+Metode duplikasi manual biaya rendah, fleksibel. tantangan utama yaitu konsistensi. evaluasi konsistensi parameter. kinerja.
+
+Metode duplikasi manual menawarkan fleksibilitas dan biaya produksi rendah karena tidak menggunakan mesin, sehingga cocok untuk industri yang sekedar membutuhkan beberapa antena saja dalam proyeknya. Tantangan utama dari duplikasi manual yaitu konsistensi terhadap antena aslinya. Maka dari itu, evaluasi konsistensi spesifikasi terutama parameter seperti return loss, VSWR, pola radiasi, dan gain sangaat diperlukan untuk memastikan spesifikasi sama dengan antena aslinya.
+
+
+
+rumusan maslaah
+

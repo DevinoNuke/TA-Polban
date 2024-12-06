@@ -1,0 +1,63 @@
+02/12/2024
+
+struktur bab 4 ref kating
+
+BAB IV HASIL DAN PEMBAHASAN
+IV.1 Pengujian
+	IV.1.1 Parameter yang Diuji
+	IV.1.2 Gambaran Situasi Pengujian
+	IV.1.3 Gambaran Pelaksanaan Pengujian
+		IV.1.3.1 Prosedur pengujian
+		IV.1.3.1 Gambaran Pengujian Parameter
+IV.2 Hasil Simulasi, Pengujian, dan Pembahasan
+	IV.2.1 Bandwidth dan Return Loss
+	IV.2.2 Gain
+	IV.2.3 Pola Radiasi
+
+
+IV.1 Pengujian 
+(pengantar)
+	IV.1.1 Parameter yang Diuji 
+	(bandwidth, return loss, gain, dan pola radiasi) 
+	IV.1.2 Gambaran Situasi Pengujian 
+	(dokumentasi ruang pengujian)
+	IV.1.3 Gambaran Pelaksanaan Pengujian 
+	(pengantar)
+		IV.1.3.1 Prosedur pengujian 
+		(bandwidth, return loss, gain, dan pola radiasi) 
+		IV.1.3.2 Gambaran Pengujian Parameter 
+		(bandwidth, return loss, gain, dan pola radiasi)
+IV.2 Hasil Pengujian dan Pembahasan
+(pengantar)
+	IV.2.1 Return loss dan bandwidth
+	(antena utama dan duplikat)
+	IV.2.2 Gain
+	(antena utama dan duplikat)
+	IV.2.3 Pola radiasi
+	(antena utama dan duplikat)
+IV.3 Analisis Konsistensi duplikasi
+
+
+
+
+IV.1	Pengujian
+
+IV.1.1	Parameter yang Diuji
+
+IV.1.2	Kondisi Pengujian
+
+IV.1.3	Pelaksanaan Pengujian
+
+IV.1.3.1	Prosedur Pengujian
+
+IV.1.3.2	Pengujian Parameter
+
+IV.2	Hasil Pengujian dan Pembahasan
+
+IV.2.1	Return Loss dan Bandwidth
+
+IV.2.2	Gain
+
+IV.2.3	Pola Radiasi
+
+IV.3	Analisis Konsistensi duplikasi 

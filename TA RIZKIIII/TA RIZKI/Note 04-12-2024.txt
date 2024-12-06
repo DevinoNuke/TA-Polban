@@ -1,0 +1,16 @@
+04-12-2024
+
+progress:
+disetujui untuk membawa pulang antena rancangan
+selesai membuat dokumentasi progress
+
+belum saat ini:
+bimbingan bu hepi (konsep, judul, progres, rencana, saran)
+bimbingan bang ali (hasil konstruksi, revisi bab 4)
+konstruksi ulang antena utama 1, duplikat 3 dengan mencatat parameter konstruksi
+
+rencana:
+parameter terukur dan tidak terukur konstruksi
+simulasi resin
+realisasi sampai tahap solder
+dokumentasi
